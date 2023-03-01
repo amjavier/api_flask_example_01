@@ -12,6 +12,4 @@ conda run --no-capture-output python run.py
 python -m pip freeze > requirements.txt
 
 ##### Include Procfile before deploying to Heroku
-##### 'run' refers to 'run.py' file
-(e.g.,: web: gunicorn module_name_where_app_instance_exists:name_of_the_app_instance)
-web: gunicorn run:my_app
+web: python run.py

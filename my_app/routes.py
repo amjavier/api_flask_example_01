@@ -4,7 +4,7 @@ from my_app import app
 
 import datetime as dt
 import numpy as np
-import pandas as pd
+# import pandas as pd
 
 import sqlalchemy
 from sqlalchemy.ext.automap import automap_base
