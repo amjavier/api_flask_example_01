@@ -13,3 +13,6 @@ python -m pip freeze > requirements.txt
 
 ##### Include Procfile before deploying to Heroku
 web: python run.py
+
+##### Access app on
+http://localhost:8080/
