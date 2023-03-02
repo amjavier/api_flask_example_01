@@ -2,7 +2,7 @@
 
 Live app: <a href="https://api-flask-example-01.herokuapp.com/" target="_blank">https://api-flask-example-01.herokuapp.com/</a>
 
-<img src="./img/api_001.PNG " width="400">
+<img src="./img/api_001.PNG " width="450">
 
 ### Summary
 This repository contains a basic REST API I built with Python and Flask as part of a data analysis course. Additionally, I used NumPy for the math calculations and SQLAlchemy as the object relational mapper (ORM) for the SQLite database.
@@ -14,10 +14,10 @@ The database contains 2 weather station tables: measurement (measured precipitat
 <br>
 The 3 available GET routes are listed below:
 1. <b>/api/v1.0/precipitation</b> => precipitation (Inch)
-   * <img src="./img/precipitation_002.PNG" width="400">
+   * <img src="./img/precipitation_002.PNG" width="500">
 2. <b>/api/v1.0/stations</b> => weather station info
-   * <img src="./img/stations_003.PNG" width="400">
+   * <img src="./img/stations_003.PNG" width="500">
 3. <b>/api/v1.0/tobs</b> => temperature (Fahrenheit)
-   * <img src="./img/temp_004.PNG" width="400">
+   * <img src="./img/temp_004.PNG" width="500">
 4. <b>/api/v1.0/temp/[start]</b> or <b>/api/v1.0/temp/[start]/[end]</b> => start and end are date placeholders, e.g., .../temp/2017-06-01/2017-06-30
-   * <img src="./img/temp_005.PNG" width="400">
+   * <img src="./img/temp_005.PNG" width="500">
