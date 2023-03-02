@@ -1,6 +1,6 @@
 # Flask API Example
 
-* Live app: <a href="https://api-flask-example-01.herokuapp.com/" target="_blank">https://api-flask-example-01.herokuapp.com/</a>
+Live app: <a href="https://api-flask-example-01.herokuapp.com/" target="_blank">https://api-flask-example-01.herokuapp.com/</a>
 
 <img src="./img/api_001.PNG " width="400">
 
