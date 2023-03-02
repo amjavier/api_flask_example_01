@@ -1,6 +1,6 @@
 # Flask API Example
 
-* Live app: https://api-flask-example-01.herokuapp.com/
+* Live app: <a href="https://api-flask-example-01.herokuapp.com/" target="_blank">https://api-flask-example-01.herokuapp.com/</a>
 
 * API routes:
 
