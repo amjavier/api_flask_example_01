@@ -5,9 +5,9 @@ Live app: <a href="https://api-flask-example-01.herokuapp.com/" target="_blank">
 <img src="./img/api_001.PNG " width="450">
 
 ### Summary
-This repository contains a basic REST API I built with Python and Flask as part of a data analysis course. Additionally, I used NumPy for the math calculations and SQLAlchemy as the object relational mapper (ORM) for the SQLite database.
+This repository contains a basic REST API I built with Python and Flask as part of a data analysis course I took in 2022. Additionally, I used NumPy for the math calculations and SQLAlchemy as the object relational mapper (ORM) for the SQLite database.
 <br>
-For this exercise I used a SQLite but Flask can be used with many other databases, including PostgreSQL and MS SQL Server. The API principle is the same with any database, the GET request will return a response, on this case in JSON format (e.g., XML is another format). There are of course other HTTP methods like POST, PUT, and DELETE but those are not part of this example.
+For this exercise I used a SQLite but Flask can be used with many other databases, including PostgreSQL and MS SQL Server with the appropriate ORM (e.g., SQLAlchemy). The API principle is the same with any database, the GET request will return a response, on this case in JSON format (e.g., XML is another format). There are of course other HTTP methods like POST, PUT, and DELETE but those are not part of this example.
 <br>
 The database contains 2 weather station tables: measurement (measured precipitation and temperature per weather station) and station (weather station info). The dataset contains between 2010 and 2017. The purpose of this basic app is to show that Python, in addition to being used for data science and analysis, can also be used to build robust back-end web applications.
 <br>
